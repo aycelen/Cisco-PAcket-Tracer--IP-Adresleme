@@ -1,0 +1,18 @@
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\bin\Debug\IP Adresleme.exe.config
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\bin\Debug\IP Adresleme.exe
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\bin\Debug\IP Adresleme.pdb
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\obj\Debug\IP Adresleme.csprojResolveAssemblyReference.cache
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\obj\Debug\IP_Adresleme.Form1.resources
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\obj\Debug\IP_Adresleme.Properties.Resources.resources
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\obj\Debug\IP Adresleme.csproj.GenerateResource.Cache
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\obj\Debug\IP Adresleme.exe
+c:\users\ayçelen\documents\visual studio 2012\Projects\IP Adresleme\IP Adresleme\obj\Debug\IP Adresleme.pdb
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\bin\Debug\IP Adresleme.exe.config
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\obj\Debug\IP Adresleme.exe
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\obj\Debug\IP Adresleme.pdb
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\bin\Debug\IP Adresleme.exe
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\bin\Debug\IP Adresleme.pdb
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\obj\Debug\IP Adresleme.csprojResolveAssemblyReference.cache
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\obj\Debug\IP_Adresleme.Form1.resources
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\obj\Debug\IP_Adresleme.Properties.Resources.resources
+C:\Users\Ayçelen\Desktop\IP Adresleme\IP Adresleme\obj\Debug\IP Adresleme.csproj.GenerateResource.Cache
